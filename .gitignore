@@ -1,0 +1,13 @@
+# Logs & Temp files
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor & IDE
+.vscode/
+.idea/
+
+# Node (만약 추후 node 패키지 추가 시)
+node_modules/
+dist/
+build/
